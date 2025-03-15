@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaurav0493
-- 👀 Reacting on React js with Next or CRA
+- 👀 Reacting on React js with React/Microfrontend/Next/CRA
 - 🌱 I’m growing with React/Next/Nest/Pyhton/Node/C++ ...
 - 📫 Reach me on gauravkr93.gk@gmail.com ...
 
